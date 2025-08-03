@@ -1,1 +1,1 @@
-YoNightZV
+print("YoNightZV")
