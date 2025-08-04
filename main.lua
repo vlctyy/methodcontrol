@@ -1,5 +1,7 @@
-local player = game:GetService("Players").LocalPlayer
 
-if player then
-  player:Kick("Stop being a nigger.")
+local Players = game:GetService("Players")
+local localPlayer = Players.LocalPlayer
+
+if localPlayer then
+  localPlayer:Kick("Closing connection.")
 end
